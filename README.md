@@ -16,5 +16,5 @@ Using toolkits such as nltk for python and probable machine learning techniques,
 1) Understanding data structures to use.(Complete)
 2) Data cleaning.
 3) Research on python toolkits etc.
-.................
+..................
 
