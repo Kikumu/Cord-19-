@@ -5,7 +5,7 @@ Exploring coronavirus research papers
 
 This repository does not participate in the challenge however, it is a personal attempt to the Open research dataset challenge.
 
-## Currently attempting to tackle: Task 1.
+## Currently tackling: Task 1.
 Task one involves finding range of incubation periods for the disease in humans(and how it varies across age and health status) and how long individuals are contagious even after recovery.
 Link to tasks can be found here: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks?taskId=568
 
