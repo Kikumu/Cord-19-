@@ -14,7 +14,7 @@ Using toolkits such as nltk for python and probable machine learning techniques,
 
 ### Roadmap.
 1) Understanding data structures to use.(Complete)
-2) Data cleaning.
+2) Data cleaning.(Currently working on this...)
 3) Research on python toolkits etc.
 ..................
 
